@@ -1,0 +1,2 @@
+cara menggunakan github:
+1. git init
